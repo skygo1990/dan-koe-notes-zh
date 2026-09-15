@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: DanKoe 文章中文概括版
+  structure:
+    - type: space
+      key: space-dan-koe-notes-zh
+      title: DanKoe 文章中文概括版
+      path: dan-koe-notes-zh
+      default: true
+      content:
+        directory: ./
+        language: zh
